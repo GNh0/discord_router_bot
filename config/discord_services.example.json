@@ -1,0 +1,18 @@
+﻿{
+  "services": [
+    {
+      "key": "chat",
+      "command": "챗봇",
+      "label": "챗봇",
+      "url_file": "D:/Coding/Python/Stock/codex_web_system/.web_public_url.txt",
+      "tunnel_log_file": "D:/Coding/Python/Stock/codex_web_system/.web_tunnel.log"
+    },
+    {
+      "key": "trading",
+      "command": "트레이딩",
+      "label": "트레이딩",
+      "url_file": "D:/Coding/Python/Stock/paper_trading_ai/.web_public_url.txt",
+      "tunnel_log_file": "D:/Coding/Python/Stock/paper_trading_ai/.web_tunnel.log"
+    }
+  ]
+}

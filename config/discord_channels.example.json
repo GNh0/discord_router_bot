@@ -1,0 +1,17 @@
+﻿{
+  "channels": [
+    {
+      "id": 123456789012345678,
+      "modules": [
+        {
+          "name": "url_router",
+          "settings": {
+            "services_file": "config/discord_services.json",
+            "announce_on_startup": true,
+            "poll_seconds": 20
+          }
+        }
+      ]
+    }
+  ]
+}

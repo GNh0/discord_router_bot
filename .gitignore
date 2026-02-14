@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+config/discord_channels.json
+config/discord_services.json
+*.log
